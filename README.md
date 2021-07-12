@@ -1,1 +1,1 @@
-# flask-todo
+# Flask Application with blog and todo
